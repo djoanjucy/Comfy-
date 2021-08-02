@@ -1,0 +1,2 @@
+BUILDING OF THE WEBSITE 
+1- Building the CSS 
